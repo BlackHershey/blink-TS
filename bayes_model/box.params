@@ -1,0 +1,7 @@
+  2  Number of Abscissa
+  0  Number of model vectors
+  1  Number of data cols
+  2  Number of Priors
+base           -1.0000E+04  0.0000E+00  1.0000E+04  1.0000E+02 Uniform(e)      NotOrdered(ne) NonLinear      
+top             0.0000E+00  5.0000E+02  1.0000E+04  1.0000E+02 Uniform(e)      NotOrdered(ne) NonLinear      
+  0  Number of Derived parameters
