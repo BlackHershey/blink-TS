@@ -14,5 +14,5 @@ Scripts/Functions/Libraries:
 * Resampling Data.py
 * Z standardized urges.py
 
-Java visual stimulus tasks:
-* 
+Effort/Discomfort Rating visual stimulus:
+* Java program - Rating12
