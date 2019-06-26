@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=audioFilePath
+comment0.target=void\ play(java.lang.String)
+comment0.text=\r\n\ Play\ a\ given\ audio\ file.\r\n\ @param\ audioFilePath\ Path\ of\ the\ audio\ file.\r\n
+comment1.params=event
+comment1.target=void\ update(javax.sound.sampled.LineEvent)
+comment1.text=\r\n\ Listens\ to\ the\ START\ and\ STOP\ events\ of\ the\ audio\ line.\r\n
+numComments=2

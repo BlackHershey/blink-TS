@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=BlinkPanel()
+comment1.params=page
+comment1.target=void\ paintComponent(java.awt.Graphics)
+comment2.params=
+comment2.target=int\ gettrialnum()
+comment3.params=
+comment3.target=void\ writeError()
+comment4.params=subject
+comment4.target=void\ getErrorDat(int)
+numComments=5
