@@ -36,6 +36,7 @@
 
 ### Effort/Discomfort Rating visual stimulus:
 **Java program - Rating12**
+  * Displays a number from 0-9 corresponding to the vertical mouse position, which the subject adjusts to reflect current (momentary) effort to suppress blinks or current discomfort. The number is displayed on a square colored red (don't blink) or green (OK to blink). The effort or discomfort rating is saved to disk every 1/4 second (see Participant Data, below).
 
 ### Participant Data
 Each participant should have the following three files:  
