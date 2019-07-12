@@ -26,7 +26,10 @@
    * Averages all 5 effort trials across each subject to create one average effort curve and one average discomfort curve. Also plotted each effort line and the average line.  
    
 **resample_curves_and_average.py**
-   * ADD ME  
+   * Creates an average discomfort curve for each subject built from all 5 of the subject's discomfort trials. Outputs a .csv file.
+   
+**avg_model_loocv.py**
+   * Creates an average discomfort curve for each subject using only 4 trials, in order to predict what the 1 trial left out may look like (LOOCV analysis). Calculates the correlation of the averaged curve to the reported discomfort of the trial left out and creates a .csv file of these correlations in order to characterize how well the method can predict discomfort.
    
 **Resampling Data.py**
    * Resamples the time and discomfort ratings into uniform quarter-second bins and outputs each subject's new resampled ratings and blinks (as a fraction of the bin where eyes were closed) to a new .txt file.  
